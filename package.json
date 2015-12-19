@@ -1,0 +1,15 @@
+{
+  "name": "logd.js",
+  "version": "0.1.0",
+  "license": "Artistic-2.0",
+  "author": "Jared Flatow",
+  "description": "A logd client library",
+  "main": "logd.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/quasiconvex/logd.js.git"
+  },
+  "dependencies": {
+    "sky": "jflatow/sky"
+  }
+}
