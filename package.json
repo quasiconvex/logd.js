@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "sky": "jflatow/sky",
-    "ws": "latest"
+    "ws": "0.8.1"
   }
 }
